@@ -54,7 +54,7 @@ The naive pipeline lets tree-based models reach a literal 1.000 on every metric;
 ├── Fraud_Transaction_Detection.ipynb        # Full notebook: EDA, leakage investigation, both pipelines, cost analysis, SHAP
 ├── fraud_detection_analysis.py              # Same pipeline as a standalone script
 ├── fraud_transactions.csv                   # Dataset
-├── Fraud_Transaction_Detection_Report.pdf    # Full written report (A to Z walkthrough with figures)
+├── Fraud_Transaction_Detection_Report.pdf    # Full written report 
 └── README.md
 ```
 
